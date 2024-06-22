@@ -11,7 +11,7 @@ const CodropsFrame = () => {
           href="https://vishoov.vercel.app"
           target="_blank"
         >
-          Contact
+          Port.
         </a>
         <a
           className="frame__prev" 
